@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # study
 
 
@@ -31,3 +32,6 @@ $ npm stop
 
 
 [egg]: https://eggjs.org
+=======
+# English
+>>>>>>> 153d8741a15df52a1a59bfa4ee4e2de0612aa8bb
